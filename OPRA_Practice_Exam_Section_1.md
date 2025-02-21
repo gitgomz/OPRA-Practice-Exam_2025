@@ -1,351 +1,319 @@
-## 1. Which of the following is the primary function of red blood cells?  
-A. Fight infection  
-B. Transport oxygen  
-C. Produce antibodies  
-D. Regulate blood pressure  
+## 1. Which of the following is the primary mechanism of action of beta-blockers in managing hypertension?  
+A. Inhibition of angiotensin II  
+B. Blockade of beta-adrenergic receptors  
+C. Inhibition of calcium channels  
+D. Activation of alpha-adrenergic receptors  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Transport oxygen  
-**Explanation:** Red blood cells contain hemoglobin, which binds and transports oxygen throughout the body.  
+  
+**Correct Answer:** B. Blockade of beta-adrenergic receptors  
+**Explanation:** Beta-blockers reduce blood pressure by blocking beta-adrenergic receptors, which decreases heart rate and cardiac output.  
 **Why Others Are Wrong:**  
-A. White blood cells fight infection.  
-C. Antibodies are produced by B cells.  
-D. Blood pressure is regulated by the cardiovascular and renal systems.
+A. Inhibition of angiotensin II is the mechanism of ACE inhibitors.  
+C. Inhibition of calcium channels is the mechanism of calcium channel blockers.  
+D. Activation of alpha-adrenergic receptors would increase blood pressure, not reduce it.  
 </details>
 
----
-
-## 2. Which of the following is a key function of the kidneys?  
-A. Production of insulin  
-B. Filtration of blood and urine formation  
-C. Digestion of fats  
-D. Regulation of body temperature  
+## 2. Which of the following is a common adverse effect of proton pump inhibitors (PPIs)?  
+A. Hyperkalemia  
+B. Hypomagnesemia  
+C. Hypercalcemia  
+D. Hypoglycemia  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Filtration of blood and urine formation  
-**Explanation:** The kidneys filter blood to remove waste products and form urine.  
+  
+**Correct Answer:** B. Hypomagnesemia  
+**Explanation:** Long-term use of PPIs can lead to hypomagnesemia due to impaired magnesium absorption.  
 **Why Others Are Wrong:**  
-A. Insulin is produced by the pancreas.  
-C. Fats are digested in the small intestine.  
-D. Body temperature is regulated by the hypothalamus.
+A. Hyperkalemia is not typically associated with PPIs.  
+C. Hypercalcemia is more commonly associated with excessive calcium supplementation or hyperparathyroidism.  
+D. Hypoglycemia is not a known adverse effect of PPIs.  
 </details>
 
----
-
-## 3. Which of the following is a normal pH range for human blood?  
-A. 6.0–6.5  
-B. 7.0–7.2  
-C. 7.35–7.45  
-D. 8.0–8.5  
+## 3. Which of the following medications is contraindicated in patients with a history of angioedema caused by ACE inhibitors?  
+A. Losartan  
+B. Lisinopril  
+C. Amlodipine  
+D. Metoprolol  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** C. 7.35–7.45  
-**Explanation:** The normal pH range for human blood is slightly alkaline, between 7.35 and 7.45.  
+  
+**Correct Answer:** B. Lisinopril  
+**Explanation:** Lisinopril is an ACE inhibitor, and patients with a history of angioedema caused by ACE inhibitors should avoid all medications in this class.  
 **Why Others Are Wrong:**  
-A, B, D. These values are outside the normal physiological range for blood pH.
+A. Losartan is an ARB and is not contraindicated in this scenario.  
+C. Amlodipine is a calcium channel blocker and is safe to use.  
+D. Metoprolol is a beta-blocker and is not contraindicated.  
 </details>
 
----
-
-## 4. Which of the following is a primary function of the liver?  
-A. Production of bile  
-B. Filtration of urine  
-C. Production of insulin  
-D. Regulation of heart rate  
+## 4. Which of the following is the most appropriate treatment for a patient experiencing anaphylaxis?  
+A. Oral antihistamines  
+B. Intravenous corticosteroids  
+C. Intramuscular epinephrine  
+D. Subcutaneous beta-blockers  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** A. Production of bile  
-**Explanation:** The liver produces bile, which aids in the digestion of fats.  
+  
+**Correct Answer:** C. Intramuscular epinephrine  
+**Explanation:** Epinephrine is the first-line treatment for anaphylaxis due to its rapid action in reversing bronchoconstriction and hypotension.  
 **Why Others Are Wrong:**  
-B. The kidneys filter urine.  
-C. The pancreas produces insulin.  
-D. The heart rate is regulated by the autonomic nervous system.
+A. Oral antihistamines are too slow and not effective for acute anaphylaxis.  
+B. Intravenous corticosteroids are used as adjunct therapy but are not first-line.  
+D. Beta-blockers can worsen anaphylaxis by blocking the effects of epinephrine.  
 </details>
 
----
-
-## 5. Which of the following is a common cause of anemia?  
-A. High iron levels  
-B. Vitamin B12 deficiency  
-C. Excessive red blood cell production  
-D. High hemoglobin levels  
+## 5. Which of the following is a common side effect of metformin?  
+A. Hypoglycemia  
+B. Lactic acidosis  
+C. Hyperkalemia  
+D. Weight gain  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Vitamin B12 deficiency  
-**Explanation:** Vitamin B12 is essential for red blood cell production, and its deficiency can lead to anemia.  
+  
+**Correct Answer:** B. Lactic acidosis  
+**Explanation:** Lactic acidosis is a rare but serious side effect of metformin, especially in patients with renal impairment.  
 **Why Others Are Wrong:**  
-A. High iron levels are not a cause of anemia.  
-C. Excessive red blood cell production is seen in polycythemia, not anemia.  
-D. High hemoglobin levels are not associated with anemia.
+A. Hypoglycemia is more common with sulfonylureas or insulin.  
+C. Hyperkalemia is not associated with metformin.  
+D. Metformin is typically associated with weight neutrality or weight loss, not weight gain.  
 </details>
 
----
-
-## 6. Which of the following is a function of the lymphatic system?  
-A. Transport oxygen  
-B. Filter blood  
-C. Immune defense  
-D. Digest fats  
+## 6. Which of the following is the first-line treatment for uncomplicated hypertension in a patient with diabetes?  
+A. Thiazide diuretics  
+B. ACE inhibitors  
+C. Beta-blockers  
+D. Calcium channel blockers  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** C. Immune defense  
-**Explanation:** The lymphatic system plays a key role in immune defense by transporting lymph and housing immune cells.  
+  
+**Correct Answer:** B. ACE inhibitors  
+**Explanation:** ACE inhibitors are preferred in patients with diabetes due to their renal protective effects.  
 **Why Others Are Wrong:**  
-A. Oxygen is transported by the circulatory system.  
-B. Blood is filtered by the kidneys.  
-D. Fats are digested in the small intestine.
+A. Thiazide diuretics are not first-line in diabetes due to their potential to worsen glucose control.  
+C. Beta-blockers are not first-line unless there is a compelling indication like heart failure.  
+D. Calcium channel blockers are not first-line in diabetes unless ACE inhibitors are contraindicated.  
 </details>
 
----
-
-## 7. Which of the following is a normal white blood cell (WBC) count range in adults?  
-A. 1,000–2,000 cells/µL  
-B. 4,000–11,000 cells/µL  
-C. 12,000–20,000 cells/µL  
-D. 21,000–30,000 cells/µL  
+## 7. Which of the following is a common side effect of statins?  
+A. Hyperglycemia  
+B. Myopathy  
+C. Hypokalemia  
+D. Hyperthyroidism  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. 4,000–11,000 cells/µL  
-**Explanation:** The normal WBC count range in adults is 4,000–11,000 cells/µL.  
+  
+**Correct Answer:** B. Myopathy  
+**Explanation:** Myopathy, including muscle pain and weakness, is a well-known side effect of statins.  
 **Why Others Are Wrong:**  
-A, C, D. These values are outside the normal range for WBC count.
+A. Hyperglycemia is not a common side effect of statins.  
+C. Hypokalemia is not associated with statin use.  
+D. Hyperthyroidism is unrelated to statin therapy.  
 </details>
 
----
-
-## 8. Which of the following is a primary function of the respiratory system?  
-A. Regulation of blood sugar  
-B. Exchange of oxygen and carbon dioxide  
-C. Production of bile  
-D. Digestion of proteins  
+## 8. Which of the following medications is most likely to cause a dry cough as a side effect?  
+A. Losartan  
+B. Lisinopril  
+C. Amlodipine  
+D. Metoprolol  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Exchange of oxygen and carbon dioxide  
-**Explanation:** The respiratory system facilitates the exchange of oxygen and carbon dioxide between the blood and the air.  
+  
+**Correct Answer:** B. Lisinopril  
+**Explanation:** A dry cough is a common side effect of ACE inhibitors like lisinopril due to increased bradykinin levels.  
 **Why Others Are Wrong:**  
-A. Blood sugar is regulated by the pancreas.  
-C. Bile is produced by the liver.  
-D. Proteins are digested in the stomach and small intestine.
+A. Losartan is an ARB and does not typically cause a dry cough.  
+C. Amlodipine is a calcium channel blocker and does not cause a cough.  
+D. Metoprolol is a beta-blocker and does not cause a cough.  
 </details>
 
----
-
-## 9. Which of the following is a common cause of hypertension?  
-A. Low sodium intake  
-B. Excessive potassium intake  
-C. High sodium intake  
-D. Low calcium intake  
+## 9. Which of the following is the most appropriate treatment for a patient with a confirmed Clostridioides difficile infection?  
+A. Ciprofloxacin  
+B. Vancomycin  
+C. Amoxicillin  
+D. Metronidazole  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** C. High sodium intake  
-**Explanation:** High sodium intake is a common cause of hypertension due to fluid retention.  
+  
+**Correct Answer:** B. Vancomycin  
+**Explanation:** Oral vancomycin is a first-line treatment for Clostridioides difficile infection.  
 **Why Others Are Wrong:**  
-A. Low sodium intake is not associated with hypertension.  
-B. Excessive potassium intake is not a common cause of hypertension.  
-D. Low calcium intake is unrelated to hypertension.
+A. Ciprofloxacin is not effective against C. difficile and can worsen the infection.  
+C. Amoxicillin is not used for C. difficile infections.  
+D. Metronidazole is no longer recommended as first-line due to lower efficacy compared to vancomycin.  
 </details>
 
----
-
-## 10. Which of the following is a function of the pancreas?  
-A. Production of bile  
-B. Regulation of blood glucose  
-C. Filtration of blood  
-D. Production of red blood cells  
+## 10. Which of the following is a common side effect of opioids?  
+A. Diarrhea  
+B. Constipation  
+C. Hypertension  
+D. Hypoglycemia  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Regulation of blood glucose  
-**Explanation:** The pancreas produces insulin and glucagon, which regulate blood glucose levels.  
+  
+**Correct Answer:** B. Constipation  
+**Explanation:** Constipation is a common side effect of opioids due to their effect on gastrointestinal motility.  
 **Why Others Are Wrong:**  
-A. Bile is produced by the liver.  
-C. Blood is filtered by the kidneys.  
-D. Red blood cells are produced in the bone marrow.
+A. Diarrhea is not associated with opioid use.  
+C. Opioids can cause hypotension, not hypertension.  
+D. Hypoglycemia is not a known side effect of opioids.  
 </details>
 
----
-
-## 11. Which of the following is a normal fasting blood glucose level?  
-A. 50–70 mg/dL  
-B. 70–100 mg/dL  
-C. 110–130 mg/dL  
-D. 140–160 mg/dL  
+## 11. Which of the following is the most appropriate treatment for a patient with gout?  
+A. Ibuprofen  
+B. Allopurinol  
+C. Acetaminophen  
+D. Metformin  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. 70–100 mg/dL  
-**Explanation:** The normal fasting blood glucose level is 70–100 mg/dL.  
+  
+**Correct Answer:** A. Ibuprofen  
+**Explanation:** Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) and is used for acute gout flare management.  
 **Why Others Are Wrong:**  
-A, C, D. These values are outside the normal range for fasting blood glucose.
+B. Allopurinol is used for long-term gout prophylaxis, not acute flares.  
+C. Acetaminophen is not effective for gout inflammation.  
+D. Metformin is used for diabetes, not gout.  
 </details>
 
----
-
-## 12. Which of the following is a common cause of hyperkalemia?  
-A. Low potassium intake  
-B. Renal failure  
-C. Excessive sodium intake  
-D. Low calcium levels  
+## 12. Which of the following is a common side effect of warfarin?  
+A. Hyperkalemia  
+B. Bleeding  
+C. Hypoglycemia  
+D. Hypertension  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Renal failure  
-**Explanation:** Renal failure impairs potassium excretion, leading to hyperkalemia.  
+  
+**Correct Answer:** B. Bleeding  
+**Explanation:** Bleeding is the most significant side effect of warfarin due to its anticoagulant effects.  
 **Why Others Are Wrong:**  
-A. Low potassium intake causes hypokalemia, not hyperkalemia.  
-C. Excessive sodium intake does not directly affect potassium levels.  
-D. Low calcium levels are unrelated to hyperkalemia.
+A. Hyperkalemia is not associated with warfarin.  
+C. Hypoglycemia is not a side effect of warfarin.  
+D. Warfarin does not cause hypertension.  
 </details>
 
----
-
-## 13. Which of the following is a function of the thyroid gland?  
-A. Regulation of metabolism  
-B. Production of insulin  
-C. Filtration of blood  
-D. Digestion of fats  
+## 13. Which of the following is the most appropriate treatment for a patient with iron deficiency anemia?  
+A. Erythropoietin  
+B. Ferrous sulfate  
+C. Vitamin B12  
+D. Folic acid  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** A. Regulation of metabolism  
-**Explanation:** The thyroid gland produces hormones (T3 and T4) that regulate metabolism.  
+  
+**Correct Answer:** B. Ferrous sulfate  
+**Explanation:** Ferrous sulfate is an oral iron supplement used to treat iron deficiency anemia.  
 **Why Others Are Wrong:**  
-B. Insulin is produced by the pancreas.  
-C. Blood is filtered by the kidneys.  
-D. Fats are digested in the small intestine.
+A. Erythropoietin is used for anemia associated with chronic kidney disease, not iron deficiency.  
+C. Vitamin B12 is used for B12 deficiency anemia.  
+D. Folic acid is used for folate deficiency anemia.  
 </details>
 
----
-
-## 14. Which of the following is a common cause of hypocalcemia?  
-A. Hyperparathyroidism  
-B. Vitamin D deficiency  
-C. Excessive calcium intake  
-D. High magnesium levels  
+## 14. Which of the following is a common side effect of corticosteroids?  
+A. Hypoglycemia  
+B. Hyperkalemia  
+C. Osteoporosis  
+D. Hypotension  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Vitamin D deficiency  
-**Explanation:** Vitamin D is essential for calcium absorption, and its deficiency can lead to hypocalcemia.  
+  
+**Correct Answer:** C. Osteoporosis  
+**Explanation:** Long-term use of corticosteroids can lead to bone loss and osteoporosis.  
 **Why Others Are Wrong:**  
-A. Hyperparathyroidism causes hypercalcemia, not hypocalcemia.  
-C. Excessive calcium intake does not cause hypocalcemia.  
-D. High magnesium levels are unrelated to hypocalcemia.
+A. Corticosteroids can cause hyperglycemia, not hypoglycemia.  
+B. Hyperkalemia is not a common side effect of corticosteroids.  
+D. Corticosteroids can cause hypertension, not hypotension.  
 </details>
 
----
-
-## 15. Which of the following is a function of the adrenal glands?  
-A. Production of insulin  
-B. Regulation of stress response  
-C. Filtration of blood  
-D. Digestion of proteins  
+## 15. Which of the following is the most appropriate treatment for a patient with a migraine?  
+A. Acetaminophen  
+B. Sumatriptan  
+C. Ibuprofen  
+D. Naproxen  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Regulation of stress response  
-**Explanation:** The adrenal glands produce cortisol, which regulates the body's stress response.  
+  
+**Correct Answer:** B. Sumatriptan  
+**Explanation:** Sumatriptan is a triptan and is specifically used for acute migraine attacks.  
 **Why Others Are Wrong:**  
-A. Insulin is produced by the pancreas.  
-C. Blood is filtered by the kidneys.  
-D. Proteins are digested in the stomach and small intestine.
+A. Acetaminophen is less effective for migraines compared to triptans.  
+C. Ibuprofen can be used but is not as effective as triptans.  
+D. Naproxen is also less effective compared to triptans.  
 </details>
 
----
-
-## 16. Which of the following is a common cause of metabolic acidosis?  
-A. Excessive bicarbonate production  
-B. Diabetic ketoacidosis  
-C. Low carbon dioxide levels  
-D. High oxygen levels  
+## 16. Which of the following is a common side effect of digoxin?  
+A. Hyperkalemia  
+B. Hypokalemia  
+C. Bradycardia  
+D. Tachycardia  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Diabetic ketoacidosis  
-**Explanation:** Diabetic ketoacidosis leads to the accumulation of ketones, causing metabolic acidosis.  
+  
+**Correct Answer:** C. Bradycardia  
+**Explanation:** Digoxin can cause bradycardia due to its effects on the sinoatrial node.  
 **Why Others Are Wrong:**  
-A. Excessive bicarbonate production causes alkalosis, not acidosis.  
-C. Low carbon dioxide levels cause respiratory alkalosis.  
-D. High oxygen levels do not cause acidosis.
+A. Digoxin toxicity is associated with hyperkalemia, not hyperkalemia as a common side effect.  
+B. Hypokalemia increases the risk of digoxin toxicity but is not a direct side effect.  
+D. Tachycardia is not a common side effect of digoxin.  
 </details>
 
----
-
-## 17. Which of the following is a function of the spleen?  
-A. Production of bile  
-B. Filtration of blood and immune function  
-C. Regulation of blood glucose  
-D. Digestion of fats  
+## 17. Which of the following is the most appropriate treatment for a patient with Parkinson's disease?  
+A. Metformin  
+B. Levodopa  
+C. Ibuprofen  
+D. Warfarin  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Filtration of blood and immune function  
-**Explanation:** The spleen filters blood and plays a role in immune function by removing old red blood cells and pathogens.  
+  
+**Correct Answer:** B. Levodopa  
+**Explanation:** Levodopa is the most effective medication for managing Parkinson's disease symptoms.  
 **Why Others Are Wrong:**  
-A. Bile is produced by the liver.  
-C. Blood glucose is regulated by the pancreas.  
-D. Fats are digested in the small intestine.
+A. Metformin is used for diabetes, not Parkinson's disease.  
+C. Ibuprofen is an NSAID and is not used for Parkinson's disease.  
+D. Warfarin is an anticoagulant and is unrelated to Parkinson's disease.  
 </details>
 
----
-
-## 18. Which of the following is a common cause of thrombocytopenia?  
-A. High platelet production  
-B. Vitamin K deficiency  
-C. Immune-mediated destruction of platelets  
-D. Excessive iron intake  
+## 18. Which of the following is a common side effect of lithium?  
+A. Hyperthyroidism  
+B. Hypothyroidism  
+C. Hyperglycemia  
+D. Hypotension  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** C. Immune-mediated destruction of platelets  
-**Explanation:** Immune-mediated destruction of platelets is a common cause of thrombocytopenia.  
+  
+**Correct Answer:** B. Hypothyroidism  
+**Explanation:** Lithium can cause hypothyroidism by interfering with thyroid hormone production.  
 **Why Others Are Wrong:**  
-A. High platelet production does not cause thrombocytopenia.  
-B. Vitamin K deficiency affects clotting factors, not platelets.  
-D. Excessive iron intake is unrelated to thrombocytopenia.
+A. Hyperthyroidism is not a common side effect of lithium.  
+C. Hyperglycemia is not associated with lithium use.  
+D. Hypotension is not a common side effect of lithium.  
 </details>
 
----
-
-## 19. Which of the following is a function of the hypothalamus?  
-A. Regulation of body temperature  
-B. Production of insulin  
-C. Filtration of blood  
-D. Digestion of proteins  
+## 19. Which of the following is the most appropriate treatment for a patient with a urinary tract infection (UTI)?  
+A. Ciprofloxacin  
+B. Metronidazole  
+C. Vancomycin  
+D. Amoxicillin  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** A. Regulation of body temperature  
-**Explanation:** The hypothalamus regulates body temperature through thermoregulation.  
+  
+**Correct Answer:** A. Ciprofloxacin  
+**Explanation:** Ciprofloxacin is a fluoroquinolone antibiotic commonly used to treat UTIs.  
 **Why Others Are Wrong:**  
-B. Insulin is produced by the pancreas.  
-C. Blood is filtered by the kidneys.  
-D. Proteins are digested in the stomach and small intestine.
+B. Metronidazole is used for anaerobic infections, not UTIs.  
+C. Vancomycin is used for serious infections like MRSA, not UTIs.  
+D. Amoxicillin is less effective for UTIs compared to fluoroquinolones.  
 </details>
 
----
-
-## 20. Which of the following is a common cause of hypernatremia?  
-A. Excessive water intake  
-B. Dehydration  
-C. Low sodium intake  
-D. High potassium levels  
+## 20. Which of the following is a common side effect of antihistamines?  
+A. Diarrhea  
+B. Sedation  
+C. Hypertension  
+D. Hypoglycemia  
 <details>
   <summary>Show Answer</summary>
-
-**Correct Answer:** B. Dehydration  
-**Explanation:** Dehydration leads to hypernatremia due to a relative increase in sodium concentration.  
+  
+**Correct Answer:** B. Sedation  
+**Explanation:** Sedation is a common side effect of first-generation antihistamines due to their ability to cross the blood-brain barrier.  
 **Why Others Are Wrong:**  
-A. Excessive water intake causes hyponatremia, not hypernatremia.  
-C. Low sodium intake causes hyponatremia.  
-D. High potassium levels are unrelated to hypernatremia.
+A. Diarrhea is not a common side effect of antihistamines.  
+C. Antihistamines do not cause hypertension.  
+D. Hypoglycemia is not associated with antihistamines.  
 </details>
