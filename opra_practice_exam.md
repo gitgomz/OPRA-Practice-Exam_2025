@@ -57,59 +57,38 @@ C. Muscarinic antagonists (e.g., ipratropium) are not the primary mechanism of s
 D. Phosphodiesterase inhibitors (e.g., theophylline) are not related to salbutamol.  
 </details>
 
----
-
-# Section 2 - Medicinal Chemistry and Biopharmaceutics (10%)
-
-## Question 1
-**Which property influences a drug's ability to dissolve in water?**
-
-A) Molecular weight  
-B) Lipophilicity  
-C) pKa  
-D) All of the above  
+## Question 4
+**Which of the following is the first-line treatment for uncomplicated urinary tract infections (UTIs) in non-pregnant women?**  
+A. Amoxicillin  
+B. Ciprofloxacin  
+C. Nitrofurantoin  
+D. Vancomycin  
 
 <details>
-  <summary>Show Answer</summary>
-  **Answer:** D) All of the above  
-  **Explanation:** Solubility is affected by molecular weight, lipophilicity, and pKa. Larger molecules dissolve less easily, lipophilicity affects partitioning, and pKa determines ionization in different pH environments.  
-  **Why other choices are wrong:**  
-  - **Molecular weight (A):** Only one factor, not the complete answer.  
-  - **Lipophilicity (B):** Affects solubility but not alone.  
-  - **pKa (C):** Important but not the only factor.  
+   <summary>Show Answer</summary>
+  
+**Correct Answer: C. - Nitrofurantoin**  
+**Explanation: Nitrofurantoin is a first-line treatment for uncomplicated UTIs due to its efficacy and low resistance rates.**  
+
+**Why Others Are Wrong:**  
+A. Amoxicillin is not first-line due to high resistance rates.  
+B. Ciprofloxacin is reserved for complicated UTIs or when first-line options fail.  
+D. Vancomycin is used for severe infections like MRSA, not UTIs.
 </details>
 
-## Question 2
-**Why is drug stability important in formulations?**
-
-A) It prevents microbial contamination  
-B) It ensures the drug remains effective over time  
-C) It enhances the taste of the drug  
-D) It increases the weight of the drug  
-
+## Question 5
+**A patient with rheumatoid arthritis is prescribed methotrexate. Which of the following supplements should be co-prescribed to reduce side effects?**  
+A. Vitamin D  
+B. Folic acid  
+C. Iron  
+D. Vitamin B12  
 <details>
-  <summary>Show Answer</summary>
-  **Answer:** B) It ensures the drug remains effective over time  
-  **Explanation:** Drug stability ensures the medication maintains potency and efficacy.  
-  **Why other choices are wrong:**  
-  - **Microbial contamination (A):** Managed by preservatives, not stability alone.  
-  - **Enhances taste (C):** Stability does not directly affect taste.  
-  - **Increases weight (D):** Stability has no impact on drug weight.  
-</details>
-
-## Question 3
-**Which of the following affects drug solubility?**
-
-A) pH of the solution  
-B) Route of administration  
-C) Dosage form  
-D) All of the above  
-
-<details>
-  <summary>Show Answer</summary>
-  **Answer:** A) pH of the solution  
-  **Explanation:** The pH affects ionization and solubility.  
-  **Why other choices are wrong:**  
-  - **Route of administration (B):** Determines how a drug is delivered but not solubility.  
-  - **Dosage form (C):** Affects absorption but not direct solubility.  
-</details>
+<summary>Show Answer</summary>
+  
+**Correct Answer: B. - Folic acid**  
+Explanation: Folic acid supplementation reduces the risk of methotrexate-induced side effects like mucositis and hematologic toxicity.  
+**Why Others Are Wrong**:  
+A. Vitamin D is not directly related to methotrexate side effects.  
+C. Iron is not routinely co-prescribed with methotrexate.  
+D. Vitamin B12 is not used to mitigate methotrexate side effects.
+</details>  
