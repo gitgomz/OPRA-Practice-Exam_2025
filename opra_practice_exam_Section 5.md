@@ -187,3 +187,114 @@ C. NSAIDs inhibit prostaglandin synthesis but are not used for long-term gout ma
 D. Uric acid dissolution is not a mechanism of allopurinol.  
 </details>
 
+## **12. A patient with epilepsy is prescribed phenytoin. Which of the following is a sign of phenytoin toxicity?**  
+A. Hypertension  
+B. Nystagmus  
+C. Hypoglycemia  
+D. Hyperkalemia  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - Nystagmus**  
+**Explanation:** Nystagmus is a classic sign of phenytoin toxicity, along with ataxia and confusion.  
+**Why Others Are Wrong:**  
+A. Hypertension is not associated with phenytoin toxicity.  
+C. Hypoglycemia is not a sign of phenytoin toxicity.  
+D. Hyperkalemia is unrelated to phenytoin.  
+</details>
+
+## **13. Which of the following is the most appropriate treatment for anaphylaxis?**  
+A. Oral antihistamines  
+B. Intramuscular adrenaline  
+C. Intravenous corticosteroids  
+D. Subcutaneous beta-blockers  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - Intramuscular adrenaline**  
+**Explanation:** Intramuscular adrenaline is the first-line treatment for anaphylaxis due to its rapid action in reversing symptoms.  
+**Why Others Are Wrong:**  
+A. Oral antihistamines are too slow for anaphylaxis.  
+C. Corticosteroids are adjunctive but not first-line.  
+D. Beta-blockers are contraindicated in anaphylaxis.  
+</details>
+
+## **14. A patient with chronic obstructive pulmonary disease (COPD) is prescribed tiotropium. What is the mechanism of action of tiotropium?**  
+A. Beta-2 adrenergic receptor agonist  
+B. Muscarinic receptor antagonist  
+C. Leukotriene receptor antagonist  
+D. Phosphodiesterase inhibitor  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. Muscarinic receptor antagonist**  
+**Explanation:** Tiotropium is a long-acting muscarinic antagonist (LAMA) that relaxes bronchial smooth muscle by blocking acetylcholine receptors.  
+**Why Others Are Wrong:**  
+A. Beta-2 agonists (e.g., salbutamol) work differently.  
+C. Leukotriene antagonists (e.g., montelukast) are used in asthma, not COPD.  
+D. Phosphodiesterase inhibitors (e.g., theophylline) have a different mechanism.  
+</details>
+
+## **15. Which of the following medications is most likely to cause QT prolongation?**  
+A. Amoxicillin  
+B. Metformin  
+C. Ciprofloxacin  
+D. Omeprazole  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: C. Ciprofloxacin**  
+**Explanation:** Ciprofloxacin, a fluoroquinolone antibiotic, is associated with QT prolongation, which can lead to arrhythmias.  
+**Why Others Are Wrong:**  
+A. Amoxicillin does not affect the QT interval.  
+B. Metformin is not associated with QT prolongation.  
+D. Omeprazole does not cause QT prolongation.  
+</details>
+
+## **16. A patient with heart failure is prescribed spironolactone. What is the primary mechanism of action of spironolactone?**  
+A. Inhibition of angiotensin-converting enzyme (ACE)  
+B. Blockade of aldosterone receptors  
+C. Inhibition of sodium-potassium ATPase  
+D. Blockade of beta-adrenergic receptors  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. Blockade of aldosterone receptors**  
+**Explanation:** Spironolactone is a potassium-sparing diuretic that works by blocking aldosterone receptors, reducing fluid retention.  
+**Why Others Are Wrong:**  
+A. ACE inhibitors (e.g., lisinopril) work differently.  
+C. Sodium-potassium ATPase inhibitors (e.g., digoxin) are not diuretics.  
+D. Beta-blockers (e.g., metoprolol) have a different mechanism.  
+</details>
+
+## 17. Which of the following is a common side effect of proton pump inhibitors (PPIs)?  
+A. Hyperkalemia  
+B. Hypomagnesemia  
+C. Hypoglycemia  
+D. Hypertension  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer:** B. Hypomagnesemia
+**Explanation:** Long-term use of PPIs (e.g., omeprazole) can lead to hypomagnesemia due to impaired magnesium absorption.
+**Why Others Are Wrong:**
+A. Hyperkalemia is not associated with PPIs.
+C. Hypoglycemia is not a side effect of PPIs.
+D. Hypertension is unrelated to PPI use.
+</details>
+
+## 18. A patient with bipolar disorder is prescribed lithium. What is the most important monitoring parameter for lithium therapy?  
+A. Serum potassium levels  
+B. Serum lithium levels  
+C. Serum glucose levels  
+D. Serum calcium levels  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer:** B. Serum lithium levels  
+**Explanation:** Lithium has a narrow therapeutic index, and serum levels must be monitored to avoid toxicity.  
+**Why Others Are Wrong:**  
+A. Potassium levels are not directly related to lithium therapy.  
+C. Glucose levels are not monitored for lithium.  
+D. Calcium levels are unrelated to lithium use.  
+</details>
