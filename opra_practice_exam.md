@@ -1,59 +1,60 @@
 # Section 1 - Biomedical Sciences (20%)
 
 ## Question 1
-**Which organ is primarily responsible for detoxifying blood and metabolizing drugs?**
-
-A) Heart  
-B) Kidneys  
-C) Liver  
-D) Lungs  
+**A patient with a history of asthma is prescribed propranolol. Why should this be avoided?**  
+A. It causes sedation   
+B. It increases blood pressure   
+C. It can cause bronchoconstriction   
+D. It has no effect on asthma   
 
 <details>
   <summary>Show Answer</summary>
-  **Answer:** C) Liver  
-  
-  **Explanation:** The liver is the primary organ responsible for detoxification and drug metabolism through enzymatic processes, primarily via the cytochrome P450 system.  
-  
-  **Why other choices are wrong:**  
-  - **Heart (A):** Pumps blood but does not metabolize drugs.  
-  - **Kidneys (B):** Filter waste but do not primarily metabolize drugs.  
-  - **Lungs (D):** Involved in gas exchange, not drug metabolism.  
+
+**Answer**: **C. - It can cause bronchoconstriction**.    
+
+**Explanation**: Propranolol is a non-selective beta-blocker that can worsen asthma by blocking beta-2 receptors in the lungs.  
+
+**Why others are wrong:**   
+A. Propranolol is not primarily a sedative.   
+B. It lowers, rather than increases, blood pressure.   
+D. It does have a significant effect on asthma.   
 </details>
 
 ## Question 2
-**Which of the following is a key characteristic of an inflammatory response?**
-
-A) Decreased blood flow  
-B) Increased white blood cell activity  
-C) Lowered body temperature  
-D) Decreased capillary permeability  
+**A patient with hypertension is prescribed lisinopril. Which of the following is the most common side effect of this medication?**  
+A. Hyperkalemia  
+B. Dry cough  
+C. Hypoglycemia  
+D. Tachycardia  
 
 <details>
-  <summary>Show Answer</summary>
-  **Answer:** B) Increased white blood cell activity  
-  **Explanation:** Inflammation is characterized by increased white blood cell activity to fight infection.  
-  **Why other choices are wrong:**  
-  - **Decreased blood flow (A):** Inflammation actually increases blood flow.  
-  - **Lowered body temperature (C):** Fever is a common inflammatory response.  
-  - **Decreased capillary permeability (D):** Inflammation increases permeability to allow immune cells to reach affected areas.  
+  <summary>Show Answer</summary>   
+
+**Correct Answer: B - Dry cough**  
+**Explanation**: Lisinopril, an ACE inhibitor, is associated with a dry cough in up to 20% of patients due to the accumulation of bradykinin.  
+**Why Others Are Wrong:**  
+A. Hyperkalemia can occur but is less common than a dry cough.  
+C. Hypoglycemia is not associated with lisinopril.  
+D. Tachycardia is not a typical side effect of lisinopril.   
 </details>
 
 ## Question 3
-**Which microorganism is most commonly associated with tuberculosis?**
+**A patient with asthma is prescribed a salbutamol inhaler. What is the primary mechanism of action of salbutamol?**  
+A. Inhibition of leukotrienes  
+B. Beta-2 adrenergic receptor agonist  
+C. Muscarinic receptor antagonist  
+D. Inhibition of phosphodiesterase  
 
-A) Staphylococcus aureus  
-B) Mycobacterium tuberculosis  
-C) Escherichia coli  
-D) Pseudomonas aeruginosa  
 
 <details>
   <summary>Show Answer</summary>
-  **Answer:** B) Mycobacterium tuberculosis  
-  **Explanation:** Tuberculosis is caused by Mycobacterium tuberculosis.  
-  **Why other choices are wrong:**  
-  - **Staphylococcus aureus (A):** Causes skin infections, not tuberculosis.  
-  - **Escherichia coli (C):** Associated with gastrointestinal infections.  
-  - **Pseudomonas aeruginosa (D):** Causes opportunistic infections, not tuberculosis.  
+
+**Correct Answer: B. - Beta-2 adrenergic receptor agonist**  
+**Explanation: Salbutamol is a short-acting beta-2 agonist that relaxes bronchial smooth muscle, providing rapid relief of asthma symptoms.**  
+**Why Others Are Wrong:**  
+A. Leukotriene inhibitors (e.g., montelukast) are used for long-term control, not acute relief.  
+C. Muscarinic antagonists (e.g., ipratropium) are not the primary mechanism of salbutamol.  
+D. Phosphodiesterase inhibitors (e.g., theophylline) are not related to salbutamol.  
 </details>
 
 ---
