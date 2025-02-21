@@ -463,7 +463,7 @@ D. Methylnaltrexone
 <details>
   <summary>Show Answer</summary>
   
-**Correct Answer: D. Methylnaltrexone**  
+**Correct Answer: D. - Methylnaltrexone**  
 **Explanation:** Methylnaltrexone is a peripherally acting mu-opioid receptor antagonist used for opioid-induced constipation.  
 **Why Others Are Wrong:**  
 A. Loperamide is used for diarrhea.  
@@ -479,10 +479,160 @@ D. Oral administration
 <details>
   <summary>Show Answer</summary>
 
-**Correct Answer: C. Long duration of action**  
+**Correct Answer: C. - Long duration of action**  
 **Explanation:** Insulin glargine is a long-acting insulin that provides basal insulin coverage for up to 24 hours.  
 **Why Others Are Wrong:**  
 A. Rapid-acting insulins (e.g., insulin lispro) have a rapid onset.  
 B. Regular insulin has a shorter duration of action.  
 D. Insulin cannot be administered orally.  
 </details>
+
+## 31. A 65-year-old patient is prescribed warfarin for atrial fibrillation. Which of the following is the most important screening test before initiating therapy?  
+A. Liver function test  
+B. International normalized ratio (INR)  
+C. Serum creatinine  
+D. Thyroid function test  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - International normalized ratio (INR)**  
+**Explanation:** INR is used to monitor warfarin therapy and ensure therapeutic anticoagulation. Baseline INR is essential before starting warfarin.  
+**Why Others Are Wrong:**  
+A. Liver function tests are not directly related to warfarin initiation.  
+C. Serum creatinine is important for renal function but not specifically for warfarin.  
+D. Thyroid function tests are unrelated to warfarin therapy.  
+</details>
+
+## 32. A 50 kg patient is prescribed a medication with a dose of 5 mg/kg/day. What is the total daily dose for this patient?  
+A. 100 mg  
+B. 200 mg  
+C. 250 mg  
+D. 300 mg  
+<details>
+  <summary>Show Answer</summary>
+
+**Correct Answer: C. - 250 mg**  
+**Explanation:** The calculation is 5 mg/kg/day × 50 kg = 250 mg/day.  
+**Why Others Are Wrong:**  
+A, B, D. These values are incorrect based on the calculation.  
+</details>
+
+## 33. A patient with diabetes is prescribed insulin. Which of the following is the most important counseling point for safe and effective use?  
+A. Rotate injection sites  
+B. Take with food  
+C. Store in the freezer  
+D. Use after the expiration date  
+<details>
+  <summary>Show Answer</summary>
+
+**Correct Answer: A. - Rotate injection sites**  
+**Explanation:** Rotating injection sites prevents lipodystrophy and ensures consistent absorption.  
+**Why Others Are Wrong:**  
+B. Insulin is not taken orally.  
+C. Insulin should not be frozen.  
+D. Expired insulin should not be used.  
+</details>
+
+## 34. A patient is prescribed a new medication with a black box warning. What does this indicate?  
+A. The medication is over-the-counter  
+B. The medication has a high risk of serious adverse effects  
+C. The medication is contraindicated in pregnancy  
+D. The medication is only available in hospitals  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - The medication has a high risk of serious adverse effects**  
+**Explanation:** A black box warning is the FDA’s strongest warning for serious or life-threatening risks.  
+**Why Others Are Wrong:**  
+A. Black box warnings are not related to OTC status.  
+C. Not all medications with black box warnings are contraindicated in pregnancy.  
+D. Hospital-only status is unrelated to black box warnings.  
+</details>
+
+## 35. A patient is prescribed a medication that interacts with grapefruit juice. Which of the following is the most likely mechanism of this interaction?  
+A. Inhibition of CYP3A4  
+B. Induction of CYP2D6  
+C. Inhibition of P-glycoprotein  
+D. Induction of UGT enzymes  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: A. - Inhibition of CYP3A4**  
+**Explanation:** Grapefruit juice inhibits CYP3A4, increasing the bioavailability of certain medications.  
+**Why Others Are Wrong:**  
+B, C, D. These mechanisms are not associated with grapefruit juice interactions.  
+</details>
+
+## 36. A patient is prescribed a medication that requires dose adjustment in renal impairment. Which of the following is the most appropriate method to assess renal function?  
+A. Serum creatinine  
+B. Estimated glomerular filtration rate (eGFR)  
+C. Blood urea nitrogen (BUN)  
+D. Urine protein  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - Estimated glomerular filtration rate (eGFR)**  
+**Explanation:** eGFR is the most accurate measure of renal function for dose adjustments.  
+**Why Others Are Wrong:**  
+A, C, D. These are less specific for assessing renal function.  
+</details>
+
+## 37. A patient is prescribed a medication with a high risk of photosensitivity. Which of the following is the most appropriate counseling point?  
+A. Avoid sunlight  
+B. Take at bedtime  
+C. Use with food  
+D. Store in the refrigerator  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: A. - Avoid sunlight**  
+**Explanation:** Photosensitivity reactions can be minimized by avoiding sunlight and using sunscreen.  
+**Why Others Are Wrong:**  
+B, C, D. These are unrelated to photosensitivity.  
+</details>
+
+## 38. A patient is prescribed a medication that requires monitoring for ototoxicity. Which of the following is the most likely medication?  
+A. Amoxicillin  
+B. Gentamicin  
+C. Metformin  
+D. Omeprazole  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - Gentamicin**  
+**Explanation:** Gentamicin is an aminoglycoside antibiotic associated with ototoxicity.  
+**Why Others Are Wrong:**  
+A, C, D. These medications are not associated with ototoxicity.  
+</details>
+
+## 39. A patient is prescribed a medication that requires monitoring for QT prolongation. Which of the following is the most appropriate screening test?  
+A. Electrocardiogram (ECG)  
+B. Liver function tests  
+C. Serum creatinine  
+D. Thyroid function tests  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: A. - Electrocardiogram (ECG)**  
+**Explanation:** ECG is used to monitor QT interval prolongation.  
+**Why Others Are Wrong:**  
+B, C, D. These tests are unrelated to QT prolongation.  
+</details>
+
+## 40. 5. A child weighing 25 kg is prescribed 4 mg/kg/day of a medication. What is the total daily dose?  
+A. 50 mg  
+B. 75 mg  
+C. 100 mg  
+D. 125 mg  
+
+<details>
+<summary>Show Answer</summary>
+
+**Correct Answer: D. 100 mg**  
+**Explanation:** The total daily dose is calculated by multiplying the child's weight (25 kg) by the dose per kilogram (4 mg/kg/day).  
+**Why Others Are Wrong:**  
+A. 50 mg: Incorrect calculation.  
+B. 75 mg: Incorrect calculation.  
+C. 100 mg: Correct calculation but incorrectly labeled.  
+</details>
+
