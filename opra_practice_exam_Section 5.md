@@ -1,7 +1,6 @@
 # Section 5 - Patient Care and Therapeutics
 
-## Question 1
-**A patient with a history of asthma is prescribed propranolol. Why should this be avoided?**  
+## **1. A patient with a history of asthma is prescribed propranolol. Why should this be avoided?**  
 A. It causes sedation   
 B. It increases blood pressure   
 C. It can cause bronchoconstriction   
@@ -20,8 +19,7 @@ B. It lowers, rather than increases, blood pressure.
 D. It does have a significant effect on asthma.   
 </details>
 
-## Question 2
-**A patient with hypertension is prescribed lisinopril. Which of the following is the most common side effect of this medication?**  
+## **2. A patient with hypertension is prescribed lisinopril. Which of the following is the most common side effect of this medication?**  
 A. Hyperkalemia  
 B. Dry cough  
 C. Hypoglycemia  
@@ -38,8 +36,8 @@ C. Hypoglycemia is not associated with lisinopril.
 D. Tachycardia is not a typical side effect of lisinopril.   
 </details>
 
-## Question 3
-**A patient with asthma is prescribed a salbutamol inhaler. What is the primary mechanism of action of salbutamol?**  
+## **3. A patient with asthma is prescribed a salbutamol inhaler. What is the primary mechanism of action of salbutamol?**  
+
 A. Inhibition of leukotrienes  
 B. Beta-2 adrenergic receptor agonist  
 C. Muscarinic receptor antagonist  
@@ -56,8 +54,7 @@ C. Muscarinic antagonists (e.g., ipratropium) are not the primary mechanism of s
 D. Phosphodiesterase inhibitors (e.g., theophylline) are not related to salbutamol.  
 </details>
 
-## Question 4
-**Which of the following is the first-line treatment for uncomplicated urinary tract infections (UTIs) in non-pregnant women?**  
+## **4. Which of the following is the first-line treatment for uncomplicated urinary tract infections (UTIs) in non-pregnant women?**    
 A. Amoxicillin  
 B. Ciprofloxacin  
 C. Nitrofurantoin  
@@ -75,8 +72,8 @@ B. Ciprofloxacin is reserved for complicated UTIs or when first-line options fai
 D. Vancomycin is used for severe infections like MRSA, not UTIs.
 </details>
 
-## Question 5
-**A patient with rheumatoid arthritis is prescribed methotrexate. Which of the following supplements should be co-prescribed to reduce side effects?**  
+## **5. A patient with rheumatoid arthritis is prescribed methotrexate. Which of the following supplements should be co-prescribed to reduce side effects?**  
+  
 A. Vitamin D  
 B. Folic acid  
 C. Iron  
@@ -92,8 +89,8 @@ C. Iron is not routinely co-prescribed with methotrexate.
 D. Vitamin B12 is not used to mitigate methotrexate side effects.
 </details>
 
-## Question 6
-**Which of the following is a common side effect of statins?**  
+## **6. Which of the following is a common side effect of statins?**  
+  
 A. Hypoglycemia  
 B. Myalgia  
 C. Hypertension  
@@ -110,8 +107,7 @@ C. Statins do not cause hypertension.
 D. Hypokalemia is not a typical side effect of statins.  
 </details>
 
-## Question 7
-**A patient with osteoporosis is prescribed alendronate. What is the most important administration instruction for this medication?**  
+## **7. A patient with osteoporosis is prescribed alendronate. What is the most important administration instruction for this medication?**  
 A. Take with food  
 B. Take at bedtime  
 C. Take on an empty stomach with water and remain upright for 30 minutes  
@@ -125,5 +121,69 @@ D. Take with a high-fat meal
 A. Taking with food reduces absorption.  
 B. Taking at bedtime increases the risk of esophageal irritation.  
 D. A high-fat meal reduces absorption.  
+</details>
+
+## **8. Which of the following is the antidote for acetaminophen overdose?**    
+A. Naloxone  
+B. N-acetylcysteine  
+C. Flumazenil  
+D. Vitamin K  
+<details>
+  <summary>Show Answer</summary>
+
+**Correct Answer: B. N-acetylcysteine**  
+**Explanation**: N-acetylcysteine is the antidote for acetaminophen overdose, preventing hepatotoxicity by replenishing glutathione stores.  
+**Why Others Are Wrong:**  
+A. Naloxone is used for opioid overdose.  
+C. Flumazenil is used for benzodiazepine overdose.  
+D. Vitamin K is used for warfarin overdose.  
+</details>
+
+## **9. A patient with Parkinson’s disease is prescribed levodopa-carbidopa. What is the role of carbidopa in this combination?**  
+A. Enhance dopamine release  
+B. Inhibit peripheral conversion of levodopa to dopamine  
+C. Act as a dopamine agonist  
+D. Prevent breakdown of levodopa in the brain  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - Inhibit peripheral conversion of levodopa to dopamine**  
+**Explanation:** Carbidopa inhibits peripheral decarboxylation of levodopa, allowing more levodopa to reach the brain and reducing side effects like nausea.  
+**Why Others Are Wrong:**  
+A. Carbidopa does not enhance dopamine release.  
+C. Carbidopa is not a dopamine agonist.  
+D. Carbidopa does not act in the brain.  
+</details>
+
+## **10. Which of the following medications is contraindicated in pregnancy due to the risk of fetal harm?**  
+A. Paracetamol  
+B. Metformin  
+C. Isotretinoin  
+D. Levothyroxine  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: C. - Isotretinoin**  
+**Explanation:** Isotretinoin is a known teratogen and is contraindicated in pregnancy due to the risk of severe fetal abnormalities.  
+**Why Others Are Wrong:**  
+A. Paracetamol is safe in pregnancy.  
+B. Metformin is used in gestational diabetes.  
+D. Levothyroxine is safe and often required in pregnancy.  
+</details>
+
+## **11. A patient with gout is prescribed allopurinol. What is the primary mechanism of action of allopurinol?**
+A. Uric acid excretion  
+B. Inhibition of xanthine oxidase  
+C. Inhibition of prostaglandin synthesis  
+D. Uric acid dissolution  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. Inhibition of xanthine oxidase**  
+**Explanation:** Allopurinol inhibits xanthine oxidase, reducing uric acid production.  
+**Why Others Are Wrong:**  
+A. Uricosurics (e.g., probenecid) increase uric acid excretion.  
+C. NSAIDs inhibit prostaglandin synthesis but are not used for long-term gout management.  
+D. Uric acid dissolution is not a mechanism of allopurinol.  
 </details>
 
