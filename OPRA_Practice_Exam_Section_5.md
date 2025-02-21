@@ -298,3 +298,175 @@ A. Potassium levels are not directly related to lithium therapy.
 C. Glucose levels are not monitored for lithium.  
 D. Calcium levels are unrelated to lithium use.  
 </details>
+
+
+## 19. Which of the following medications is contraindicated in patients with a history of sulfa allergy?  
+A. Metformin  
+B. Furosemide  
+C. Acetaminophen  
+D. Ibuprofen  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. Furosemide**  
+**Explanation:** Furosemide contains a sulfonamide group and is contraindicated in patients with sulfa allergies.  
+**Why Others Are Wrong:**  
+A. Metformin does not contain sulfonamide.  
+C. Acetaminophen is safe in sulfa-allergic patients.  
+D. Ibuprofen is unrelated to sulfa allergies.  
+</details>
+
+## 20. A patient with migraine is prescribed sumatriptan. What is the mechanism of action of sumatriptan?  
+A. Inhibition of serotonin reuptake  
+B. Agonism of 5-HT1 receptors  
+C. Blockade of dopamine receptors  
+D. Inhibition of prostaglandin synthesis  
+<details>
+  <summary>Show Answer</summary> 
+  
+**Correct Answer:** B. - Agonism of 5-HT1 receptors  
+**Explanation:** Sumatriptan is a 5-HT1 receptor agonist that constricts cranial blood vessels and inhibits pain pathways in migraines.  
+**Why Others Are Wrong:**  
+A. SSRIs inhibit serotonin reuptake but are not used for migraines.  
+C. Dopamine blockers are not used for migraines.  
+D. NSAIDs inhibit prostaglandin synthesis but are not the mechanism of sumatriptan.  
+</details>
+
+## 21. Which of the following is the most appropriate treatment for Clostridioides difficile infection?  
+A. Amoxicillin  
+B. Vancomycin (oral)  
+C. Ciprofloxacin  
+D. Metronidazole  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - Vancomycin (oral)**  
+**Explanation:** Oral vancomycin is a first-line treatment for severe Clostridioides difficile infection.  
+**Why Others Are Wrong:**  
+A. Amoxicillin is ineffective against C. difficile.  
+C. Ciprofloxacin can worsen C. difficile infection.  
+D. Metronidazole is used for mild cases but is not first-line for severe infections.  
+</details>
+
+## 22. A patient with hypothyroidism is prescribed levothyroxine. What is the most important administration instruction for this medication?  
+A. Take with food  
+B. Take at bedtime  
+C. Take on an empty stomach  
+D. Take with a high-fat meal  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer:** C. - Take on an empty stomach  
+**Explanation:** Levothyroxine should be taken on an empty stomach to ensure optimal absorption.  
+**Why Others Are Wrong:**  
+A. Taking with food reduces absorption.  
+B. Bedtime administration is not recommended.  
+D. High-fat meals impair absorption.  
+</details>
+
+## 23. Which of the following is a common side effect of selective serotonin reuptake inhibitors (SSRIs)?  
+A. Hypertension  
+B. Insomnia  
+C. Hypoglycemia  
+D. Hyperkalemia  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - Insomnia**  
+**Explanation:** SSRIs (e.g., fluoxetine) commonly cause insomnia due to their effects on serotonin levels.  
+**Why Others Are Wrong:**  
+A. Hypertension is not a typical side effect of SSRIs.  
+C. Hypoglycemia is unrelated to SSRIs.  
+D. Hyperkalemia is not associated with SSRIs.  
+</details>
+
+## 24. A patient with HIV is prescribed zidovudine. Which of the following is a common side effect of zidovudine?  
+A. Hyperglycemia  
+B. Anemia  
+C. Hypertension  
+D. Hypokalemia   
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - Anemia**  
+**Explanation:** Zidovudine is associated with bone marrow suppression, leading to anemia.  
+**Why Others Are Wrong:**  
+A. Hyperglycemia is not a side effect of zidovudine.  
+C. Hypertension is unrelated to zidovudine.  
+D. Hypokalemia is not associated with zidovudine.  
+</details>
+
+## 25. Which of the following is the antidote for benzodiazepine overdose?  
+A. Naloxone  
+B. Flumazenil  
+C. N-acetylcysteine  
+D. Vitamin K  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: B. - Flumazenil**  
+**Explanation:** Flumazenil is a competitive antagonist of benzodiazepines and is used to reverse overdose.  
+**Why Others Are Wrong:**  
+A. Naloxone is used for opioid overdose.  
+C. N-acetylcysteine is used for acetaminophen overdose.  
+D. Vitamin K is used for warfarin overdose.  
+</details>
+
+## 26. A patient with peptic ulcer disease is prescribed sucralfate. What is the mechanism of action of sucralfate?  
+A. Inhibition of gastric acid secretion  
+B. Neutralization of gastric acid  
+C. Formation of a protective barrier over the ulcer  
+D. Inhibition of Helicobacter pylori  
+
+**Correct Answer: C. - Formation of a protective barrier over the ulcer**  
+**Explanation:** Sucralfate forms a gel-like substance that adheres to the ulcer, protecting it from acid and pepsin.  
+**Why Others Are Wrong:**  
+A. PPIs inhibit gastric acid secretion.  
+B. Antacids neutralize gastric acid.  
+D. Antibiotics inhibit H. pylori.  
+
+## 27. A patient with tuberculosis is prescribed rifampin. What is a common side effect of rifampin?  
+A. Blue discoloration of bodily fluids  
+B. Orange discoloration of bodily fluids  
+C. Green discoloration of bodily fluids  
+D. Red discoloration of bodily fluids  
+<details>
+  <summary>Show Answer </summary>
+  
+**Correct Answer B. Orange discoloration of bodily fluids**  
+**Explanation:** Rifampin causes orange discoloration of urine, sweat, and tears.  
+**Why Others Are Wrong:**  
+A, C, D. These discolorations are not associated with rifampin.  
+</details>
+
+## 28. A patient with epilepsy is prescribed valproate. Which of the following is a common side effect of valproate?  
+A. Weight loss  
+B. Weight gain  
+C. Hypoglycemia  
+D. Hypertension  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer:** B. - Weight gain  
+**Explanation:** Valproate is associated with weight gain due to its metabolic effects.  
+**Why Others Are Wrong:**  
+A. Weight loss is not a typical side effect.  
+C. Hypoglycemia is unrelated to valproate.  
+D. Hypertension is not associated with valproate.  
+</details>
+
+## 29. Which of the following is the most appropriate treatment for opioid-induced constipation?  
+A. Loperamide  
+B. Senna  
+C. Naloxone  
+D. Methylnaltrexone  
+<details>
+  <summary>Show Answer</summary>
+  
+**Correct Answer: D. Methylnaltrexone**  
+**Explanation:** Methylnaltrexone is a peripherally acting mu-opioid receptor antagonist used for opioid-induced constipation.  
+**Why Others Are Wrong:**  
+A. Loperamide is used for diarrhea.  
+B. Senna is a stimulant laxative but not specific for opioid-induced constipation.  
+C. Naloxone reverses opioid effects systemically, not just in the gut.  
+</details>
