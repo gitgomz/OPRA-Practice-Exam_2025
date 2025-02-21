@@ -1,4 +1,4 @@
-# Section 1 - Biomedical Sciences (20%)
+# Section 5 - Patient Care and Therapeutics
 
 ## Question 1
 **A patient with a history of asthma is prescribed propranolol. Why should this be avoided?**  
@@ -45,7 +45,6 @@ B. Beta-2 adrenergic receptor agonist
 C. Muscarinic receptor antagonist  
 D. Inhibition of phosphodiesterase  
 
-
 <details>
   <summary>Show Answer</summary>
 
@@ -86,9 +85,45 @@ D. Vitamin B12
 <summary>Show Answer</summary>
   
 **Correct Answer: B. - Folic acid**  
-Explanation: Folic acid supplementation reduces the risk of methotrexate-induced side effects like mucositis and hematologic toxicity.  
+**Explanation**: Folic acid supplementation reduces the risk of methotrexate-induced side effects like mucositis and hematologic toxicity.  
 **Why Others Are Wrong**:  
 A. Vitamin D is not directly related to methotrexate side effects.  
 C. Iron is not routinely co-prescribed with methotrexate.  
 D. Vitamin B12 is not used to mitigate methotrexate side effects.
-</details>  
+</details>
+
+## Question 6
+**Which of the following is a common side effect of statins?**  
+A. Hypoglycemia  
+B. Myalgia  
+C. Hypertension  
+D. Hypokalemia  
+
+<details>
+ <summary>Show Answer</summary>
+  
+**Correct Answer: B. - Myalgia**  
+**Explanation**: Statins are associated with muscle-related side effects, including myalgia and, in severe cases, rhabdomyolysis.  
+**Why Others Are Wrong:**  
+A. Hypoglycemia is not associated with statins.  
+C. Statins do not cause hypertension.  
+D. Hypokalemia is not a typical side effect of statins.  
+</details>
+
+## Question 7
+**A patient with osteoporosis is prescribed alendronate. What is the most important administration instruction for this medication?**  
+A. Take with food  
+B. Take at bedtime  
+C. Take on an empty stomach with water and remain upright for 30 minutes  
+D. Take with a high-fat meal  
+<details>
+<summary>Show Answer</summary>
+  
+**Correct Answer: C. Take on an empty stomach with water and remain upright for 30 minutes**  
+**Explanation:** Alendronate must be taken on an empty stomach with water and the patient must remain upright to reduce the risk of esophageal irritation.  
+**Why Others Are Wrong:**  
+A. Taking with food reduces absorption.  
+B. Taking at bedtime increases the risk of esophageal irritation.  
+D. A high-fat meal reduces absorption.  
+</details>
+
