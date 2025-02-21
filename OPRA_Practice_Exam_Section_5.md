@@ -470,3 +470,19 @@ A. Loperamide is used for diarrhea.
 B. Senna is a stimulant laxative but not specific for opioid-induced constipation.  
 C. Naloxone reverses opioid effects systemically, not just in the gut.  
 </details>
+
+## 30. A patient with diabetes is prescribed insulin glargine. What is the primary advantage of insulin glargine over regular insulin?  
+A. Rapid onset of action  
+B. Short duration of action  
+C. Long duration of action  
+D. Oral administration  
+<details>
+  <summary>Show Answer</summary>
+
+**Correct Answer: C. Long duration of action**  
+**Explanation:** Insulin glargine is a long-acting insulin that provides basal insulin coverage for up to 24 hours.  
+**Why Others Are Wrong:**  
+A. Rapid-acting insulins (e.g., insulin lispro) have a rapid onset.  
+B. Regular insulin has a shorter duration of action.  
+D. Insulin cannot be administered orally.  
+</details>
