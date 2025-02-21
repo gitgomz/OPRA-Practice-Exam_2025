@@ -628,11 +628,123 @@ D. 125 mg
 <details>
 <summary>Show Answer</summary>
 
-**Correct Answer: D. 100 mg**  
+**Correct Answer: D. - 100 mg**  
 **Explanation:** The total daily dose is calculated by multiplying the child's weight (25 kg) by the dose per kilogram (4 mg/kg/day).  
 **Why Others Are Wrong:**  
 A. 50 mg: Incorrect calculation.  
 B. 75 mg: Incorrect calculation.  
 C. 100 mg: Correct calculation but incorrectly labeled.  
+</details>
+
+## 41. A patient with liver impairment requires a reduced dose of a medication. The normal dose is 200 mg/day, but the adjustment suggests reducing the dose by 30%. What is the adjusted dose?  
+A. 120 mg  
+B. 140 mg  
+C. 160 mg  
+D. 180 mg  
+<details>
+<summary>Show Answer</summary>
+
+**Correct Answer: B. - 140 mg**  
+**Explanation:** Reducing the normal dose of 200 mg/day by 30% results in an adjusted dose of 140 mg/day.  
+**Why Others Are Wrong:**  
+A. 120 mg: Incorrect calculation.  
+C. 160 mg: Incorrect calculation.  
+D. 180 mg: Incorrect calculation.  
+</details>
+
+## 42. A 45-year-old patient with a history of smoking is being screened for lung cancer. Which screening test is recommended?  
+A. Chest X-ray  
+B. Low-dose computed tomography (LDCT)  
+C. Sputum cytology  
+D. Magnetic resonance imaging (MRI)  
+<details>
+<summary>Show Answer</summary>
+
+**Correct Answer: B. - Low-dose computed tomography (LDCT)**  
+**Explanation:** LDCT is recommended for lung cancer screening in patients with a history of smoking.  
+**Why Others Are Wrong:**  
+A. Chest X-ray is less sensitive than LDCT.  
+C. Sputum cytology is not as effective for screening.  
+D. MRI is not routinely used for lung cancer screening.  
+</details>
+
+## 43. Which of the following is a recommended screening test for type 2 diabetes?  
+A. Random plasma glucose test  
+B. Fasting plasma glucose test  
+C. Oral glucose tolerance test (OGTT)  
+D. HbA1c test  
+<details>
+<summary>Show Answer</summary>
+
+**Correct Answer: D. - HbA1c test**  
+**Explanation:** HbA1c test is recommended for screening and diagnosis of type 2 diabetes.  
+**Why Others Are Wrong:**  
+A. Random plasma glucose test is not the primary screening method.  
+B. Fasting plasma glucose test is used but HbA1c is preferred.  
+C. OGTT is used for diagnosis, not screening.  
+</details>
+
+## 44. A patient with a known penicillin allergy requires antibiotic treatment. Which of the following antibiotics should be avoided due to possible cross-reactivity?  
+A. Azithromycin  
+B. Ciprofloxacin  
+C. Cephalexin  
+D. Metronidazole  
+<details>
+<summary>Show Answer</summary>
+  
+**Correct Answer: C. - Cephalexin**  
+**Explanation:** Cephalexin, a cephalosporin, can have cross-reactivity with penicillins due to similar beta-lactam structures.  
+**Why Others Are Wrong:**  
+A. Azithromycin is a macrolide and does not have cross-reactivity with penicillins.  
+B. Ciprofloxacin is a fluoroquinolone and does not have cross-reactivity with penicillins.  
+D. Metronidazole is a nitroimidazole and does not have cross-reactivity with penicillins.  
+</details>
+
+## 45. Which of the following is an example of a primary prevention measure?  
+A. Screening for hypertension  
+B. Administering the influenza vaccine  
+C. Performing a colonoscopy  
+D. Prescribing antihypertensive medication  
+<details>
+<summary>Show Answer</summary>
+
+**Correct Answer: B. - Administering the influenza vaccine**  
+**Explanation:** Vaccination is a primary prevention measure aimed at preventing disease before it occurs.  
+**Why Others Are Wrong:**  
+A. Screening for hypertension is a secondary prevention measure.  
+C. Performing a colonoscopy is a secondary prevention measure for detecting early signs of colorectal cancer.  
+D. Prescribing antihypertensive medication is a treatment for an existing condition.  
+</details>
+
+## 46. Which of the following is a key benefit of pharmacist-led medication therapy management (MTM)?  
+A. Reducing healthcare costs by limiting medication use  
+B. Improving patient adherence to prescribed treatments  
+C. Eliminating the need for physician involvement in medication management  
+D. Increasing the number of medications prescribed  
+<details>
+<summary>Show Answer</summary>
+
+**Correct Answer: B. - Improving patient adherence to prescribed treatments**  
+**Explanation:** MTM services provided by pharmacists can help improve patient adherence to prescribed treatments and optimize therapeutic outcomes.  
+**Why Others Are Wrong:**  
+A. The goal of MTM is not to limit medication use, but to ensure appropriate use.  
+C. MTM does not eliminate the need for physician involvement.  
+D. The goal of MTM is not to increase the number of medications, but to optimize therapy.  
+</details>
+
+## 47. Which of the following tests is commonly used for colorectal cancer screening?  
+A. Fecal occult blood test (FOBT)  
+B. Colonoscopy  
+C. Flexible sigmoidoscopy  
+D. All of the above  
+<details>
+<summary>Show Answer</summary>
+
+**Correct Answer: D. - All of the above**  
+**Explanation:** FOBT, colonoscopy, and flexible sigmoidoscopy are all used for colorectal cancer screening.  
+**Why Others Are Wrong:**  
+A. FOBT is one of the methods used, but not the only one.  
+B. Colonoscopy is the gold standard but not the only option.  
+C. Flexible sigmoidoscopy is another method but not exclusive.  
 </details>
 
